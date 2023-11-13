@@ -7,8 +7,9 @@ Project ini merupakan tugas besar dari mata kuliah Temu Kembali Informasi dengan
 
 ANGGOTA :
 
-    Iqmah Nurrizky A : 201910370311107
-    Aulia Lintang Ayu K : 201910370311267
+    Alfadli Ade Irfan : 201910370311296
+    Ivan Dandi Rivaldi : 20171037031310
+    Muhammad Rifaldi : 211018
 
 Dataset : Pengadilan Negeri Jakarta utara
 
